@@ -8,6 +8,7 @@ The code contained features a dynamic daily planner. Each of the sections change
 ![Screenshot 2023-09-19 224730](https://github.com/venasven/calendar-app/assets/141704995/17afdbbc-251a-4e8f-997b-db670b175446)
 
 ## Deployed Application
+https://venasven.github.io/calendar-app/
 
 ## Credits
 Was given assitance by my instructors.
